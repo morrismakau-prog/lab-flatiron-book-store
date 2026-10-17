@@ -65,4 +65,7 @@ bookStore.books.forEach(book => {
     bookContainer.appendChild(bookCard);
 });
 
+// Force submission trigger
+
+
 
